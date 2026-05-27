@@ -1,0 +1,6 @@
+# Forzar a Git a tratar imágenes y assets como binarios puros
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.asset binary
+*.prefab binary
