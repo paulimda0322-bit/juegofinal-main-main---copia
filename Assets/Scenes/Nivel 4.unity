@@ -479,7 +479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Playermovement
   velocidad: 50
-  fuerzaDeSalto: 50
+  fuerzaDeSalto: 25
   fuerzaDeSegundoSalto: 20
   controladorSuelo: {fileID: 0}
   longitudLaser: 0
@@ -500,7 +500,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlataformaController
   velocidadMover: 50
-  fuerzaSalto: 25
+  fuerzaSalto: 40
   groundCheck: {fileID: 14800961}
   groundLayer:
     serializedVersion: 2
