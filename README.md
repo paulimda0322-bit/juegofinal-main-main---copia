@@ -2,7 +2,7 @@
 
 ## Descripción del juego
 
-**Bob’s Adventure** es un videojuego de aventura y plataformas en 2D desarrollado en :contentReference[oaicite:0]{index=0} con estética **pixel art** y una narrativa inspirada en mundos fantásticos y naturales.  
+**La aventura de Bob** es un videojuego de aventura y plataformas en 2D desarrollado con una narrativa inspirada en mundos fantásticos y naturales.  
 
 El jugador controla a **Bob**, un pequeño viajero con apariencia de hongo que debe recorrer diferentes escenarios, interactuar con habitantes de una aldea misteriosa y recolectar objetos antiguos relacionados con la desaparición del Anciano Mayor.
 
